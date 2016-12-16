@@ -14,7 +14,7 @@ module.exports = {
         // API Project Folder
         this.projectFolder = this.plugUtils.outputDirectory(project, 'api');
 
-        this.plugUtils.copyFolder('./base_code/', this.projectFolder, function() {
+        this.plugUtils.copyFolder(__dirname + '/base_code/', this.projectFolder, function() {
             this.makeConfigFiles();
             this.makeRequires();
             this.makeModelsAndControllers();

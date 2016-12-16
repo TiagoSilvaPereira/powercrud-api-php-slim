@@ -1,6 +1,6 @@
 {
   "name": "powercrud-api-php-slim",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "PowerCRUD Plug to create PHP APIs with Slim Framework",
   "main": "index.js",
   "scripts": {
