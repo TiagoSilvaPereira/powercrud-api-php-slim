@@ -1,0 +1,26 @@
+{
+  "name": "powercrud-api-php-slim",
+  "version": "0.1.0",
+  "description": "PowerCRUD Plug to create PHP APIs with Slim Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoSilvaPereira/powercrud-api-php-slim.git"
+  },
+  "keywords": [
+    "powercrud",
+    "api",
+    "plug",
+    "slim",
+    "php"
+  ],
+  "author": "Tiago Silva Pereira Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TiagoSilvaPereira/powercrud-api-php-slim/issues"
+  },
+  "homepage": "https://github.com/TiagoSilvaPereira/powercrud-api-php-slim#readme"
+}
